@@ -1,0 +1,9 @@
+Robot_Model,Manufacturer,Type,Payload_kg,Reach_mm,Repeatability_mm,Axes,Weight_kg,Mounting,Speed_Grade,Cost_Range_USD,Cleanroom_Option,Cycle_Time_sec,IP_Rating,Force_Sensing,ESD_Safe,Special_Features,Application_Suitability
+Epson T3-B401S,Epson,SCARA All-in-One,3,400,0.02,4,16,Table,Medium,8000-12000,No,0.48,IP20,No,Yes,Built-in controller; ultra low cost,Budget assembly; education; prototyping
+Epson T6-B602S,Epson,SCARA All-in-One,6,600,0.04,4,22,Table,Medium,10000-15000,No,0.50,IP20,No,Yes,Built-in controller; ultra low cost,Budget pick-and-place; packaging
+Epson VT6L-A900S,Epson,6-Axis All-in-One,6,920,0.1,6,40,Table/Ceiling/Wall,Medium,12000-18000,No,0.55,IP20,No,Yes,Built-in controller; easy setup,Simple assembly; machine tending
+Epson N2-A450SR,Epson,6-Axis Folding,2.5,450,0.02,6,19,Table/Ceiling,High,25000-35000,ISO Class 4,0.40,IP20,No,Yes,Compact folding-arm design,Space-constrained assembly
+Epson N6-A850SR,Epson,6-Axis Folding,6,850,0.03,6,58,Table/Ceiling,High,32000-42000,ISO Class 4,0.42,IP20,No,Yes,Medium reach folding design,Confined workspace assembly
+Epson N6-A1000SR,Epson,6-Axis Folding,6,1000,0.04,6,69,Table/Ceiling,High,35000-48000,ISO Class 4,0.45,IP20,No,Yes,Long reach folding design,Large workspace folding assembly
+Staubli TX2-40,Staubli,6-Axis Cleanroom,2,515,0.02,6,28,Table/Wall/Ceiling,High,40000-55000,ISO Class 2,0.35,IP65,Optional,Yes,Ultra-cleanroom; stericlean,Pharmaceutical; semiconductor
+Staubli TX2-60L,Staubli,6-Axis Cleanroom,5,920,0.02,6,52,Table/Wall/Ceiling,High,50000-65000,ISO Class 4,0.38,IP65,Optional,Yes,Extended reach cleanroom,Pharmaceutical; life sciences

@@ -1,0 +1,13 @@
+Robot_Model,Manufacturer,Type,Payload_kg,Reach_mm,Repeatability_mm,Axes,Weight_kg,Mounting,Speed_Grade,Cost_Range_USD,Cleanroom_Option,Cycle_Time_sec,IP_Rating,Force_Sensing,ESD_Safe,Application_Suitability
+Epson C4-A601S,Epson,6-Axis,4,600,0.02,6,27,Table/Ceiling,High,20000-30000,ISO Class 3,0.37,IP20,Optional,Yes,Compact assembly; electronics
+Epson C4-A901S,Epson,6-Axis,4,900,0.03,6,29,Table/Ceiling,High,25000-35000,ISO Class 3,0.47,IP20,Optional,Yes,General assembly; pick-and-place
+Epson C8-A701S,Epson,6-Axis,8,701,0.02,6,49,Table/Ceiling/Wall,High,30000-40000,ISO Class 3,0.31,IP20,Optional,Yes,Material handling; assembly
+Epson C8-A1401S,Epson,6-Axis,8,1400,0.03,6,56,Table/Ceiling,High,35000-45000,ISO Class 4,0.45,IP20,Optional,Yes,Long reach assembly; material handling
+Epson C12XL-A1401S,Epson,6-Axis,12,1400,0.05,6,63,Table,High,40000-50000,ISO Class 4,0.50,IP20,Optional,Yes,Long reach assembly; packaging
+FANUC LR Mate 200iD/4S,FANUC,6-Axis,4,550,0.01,6,20,Table/Ceiling/Wall,High,22000-32000,Yes,0.32,IP67,Optional,Yes,Compact high-precision assembly
+FANUC LR Mate 200iD/7L,FANUC,6-Axis,7,911,0.02,6,27,Table/Ceiling/Wall,High,28000-38000,Yes,0.38,IP67,Optional,Yes,Compact assembly; machine tending
+FANUC M-10iD/12,FANUC,6-Axis,12,1360,0.02,6,135,Floor/Inverted,High,40000-50000,Yes,0.45,IP67,Optional,Yes,Material handling; machine tending
+FANUC M-20iD/25,FANUC,6-Axis,25,1831,0.03,6,250,Floor/Inverted,High,50000-65000,No,0.52,IP54,Optional,No,Heavy assembly; material handling
+ABB IRB 1100-4/0.475,ABB,6-Axis,4,475,0.01,6,21,Table/Wall/Ceiling,High,25000-35000,ISO Class 4,0.32,IP40,Optional,Yes,Ultra-compact assembly; electronics
+ABB IRB 1200-5/0.9,ABB,6-Axis,5,901,0.02,6,52,Table/Wall/Ceiling,High,30000-40000,Yes,0.40,IP40,Optional,Yes,Compact assembly; electronics
+ABB IRB 1600-6/1.45,ABB,6-Axis,6,1450,0.02,6,250,Floor/Inverted,High,45000-55000,No,0.48,IP54,Optional,Yes,General assembly; material handling

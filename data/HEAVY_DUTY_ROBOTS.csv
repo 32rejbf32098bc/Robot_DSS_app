@@ -1,0 +1,9 @@
+Robot_Model,Manufacturer,Type,Payload_kg,Reach_mm,Repeatability_mm,Axes,Weight_kg,Mounting,Speed_Grade,Cost_Range_USD,Cleanroom_Option,Cycle_Time_sec,IP_Rating,Force_Sensing,ESD_Safe,Application_Suitability
+FANUC M-20iD/35,FANUC,6-Axis,35,1831,0.05,6,280,Floor/Inverted,High,55000-70000,No,0.55,IP67,Optional,No,Medium-heavy assembly; material handling
+FANUC M-710iC/50,FANUC,6-Axis,50,2050,0.07,6,490,Floor,High,65000-85000,No,0.62,IP67,Optional,No,Heavy assembly; material handling
+FANUC M-710iC/70,FANUC,6-Axis,70,2050,0.07,6,560,Floor,High,72000-92000,No,0.68,IP67,Optional,No,Heavy palletizing; material handling
+FANUC R-2000iC/165F,FANUC,6-Axis,165,2655,0.1,6,1350,Floor,Medium,85000-110000,No,0.82,IP54,Optional,No,Palletizing; heavy parts handling
+ABB IRB 4600-40/2.55,ABB,6-Axis,40,2550,0.05,6,435,Floor,High,58000-75000,No,0.56,IP67,Optional,No,Heavy assembly; material handling
+ABB IRB 6700-150/3.20,ABB,6-Axis,150,3200,0.05,6,1280,Floor,Medium,90000-120000,No,0.78,IP54,Optional,No,Heavy manufacturing; automotive
+ABB IRB 7600-325/3.10,ABB,6-Axis,325,3100,0.15,6,2230,Floor,Medium,110000-150000,No,0.92,IP54,No,No,Automotive; foundry; heavy-duty
+KUKA KR QUANTEC-2,KUKA,6-Axis,120,2700,0.06,6,1015,Floor,High,70000-95000,No,0.70,IP65,Optional,No,Welding; machining; assembly

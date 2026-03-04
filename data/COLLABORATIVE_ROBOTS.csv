@@ -1,0 +1,13 @@
+Robot_Model,Manufacturer,Type,Payload_kg,Reach_mm,Repeatability_mm,Axes,Weight_kg,Mounting,Speed_Grade,Cost_Range_USD,Safety_Features,Programming_Complexity,Cleanroom_Option,Cycle_Time_sec,IP_Rating,Force_Sensing,ESD_Safe,Application_Suitability
+UR3e,Universal Robots,Cobot,3,500,0.03,6,11,Table/Wall,Medium,25000-35000,Force limiting; collision detection,Easy,No,0.55,IP54,Yes,Yes,Small parts assembly; electronics
+UR5e,Universal Robots,Cobot,5,850,0.03,6,20,Table/Wall/Ceiling,Medium,35000-45000,Force limiting; collision detection,Easy,No,0.58,IP54,Yes,Yes,General assembly; machine tending
+UR10e,Universal Robots,Cobot,10,1300,0.05,6,33,Table/Wall/Ceiling,Medium,45000-55000,Force limiting; collision detection,Easy,No,0.60,IP54,Yes,Yes,Heavy parts; palletizing
+UR16e,Universal Robots,Cobot,16,900,0.05,6,33,Table/Wall/Ceiling,Medium,50000-60000,Force limiting; collision detection,Easy,No,0.62,IP54,Yes,Yes,Heavy assembly; machine tending
+ABB GoFa CRB 15000-5,ABB,Cobot,5,950,0.02,6,28,Table/Wall/Ceiling,Medium,35000-45000,Category 3 PLd safety,Easy,No,0.52,IP54,Yes,Yes,General assembly; machine tending
+ABB YuMi IRB 14000,ABB,Cobot,0.5,559,0.02,7,38,Table,Medium,40000-50000,Soft padding; force control,Medium,ISO Class 5,0.65,IP30,Yes,Yes,Small parts; dual-arm tasks
+FANUC CR-7iA,FANUC,Cobot,7,717,0.01,6,52,Table/Ceiling,Medium,35000-45000,Green safety skin; collision detection,Medium,No,0.52,IP67,Yes,Yes,General assembly; inspection
+FANUC CRX-10iA,FANUC,Cobot,10,1249,0.04,6,40,Table/Wall/Ceiling,Medium,40000-50000,Contact detection; hand guidance,Easy,No,0.55,IP67,Yes,Yes,General assembly; palletizing
+FANUC CRX-10iA/L,FANUC,Cobot,10,1418,0.04,6,46,Table/Wall/Ceiling,Medium,45000-55000,Contact detection; hand guidance,Easy,No,0.58,IP67,Yes,Yes,Long reach assembly; palletizing
+KUKA LBR iiwa 7 R800,KUKA,Cobot,7,800,0.1,7,23,Table/Ceiling,Medium,70000-90000,Joint torque sensors; compliant,Complex,ISO Class 5,0.58,IP54,Yes,Yes,Research; sensitive assembly
+KUKA LBR iiwa 14 R820,KUKA,Cobot,14,820,0.1,7,30,Table/Ceiling,Medium,80000-100000,Joint torque sensors; compliant,Complex,ISO Class 5,0.60,IP54,Yes,Yes,Research; force-controlled tasks
+Doosan M1013,Doosan,Cobot,10,1300,0.03,6,33,Table/Wall/Ceiling,Medium,38000-48000,6 torque sensors; collision detection,Easy,No,0.58,IP54,Yes,Yes,General assembly; machine tending

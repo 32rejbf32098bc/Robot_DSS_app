@@ -1,0 +1,16 @@
+Robot_Model,Manufacturer,Type,Payload_kg,Reach_mm,Repeatability_mm,Axes,Weight_kg,Mounting,Speed_Grade,Cost_Range_USD,Cleanroom_Option,Cycle_Time_sec,IP_Rating,Force_Sensing,ESD_Safe,Application_Suitability
+Epson G1-171S,Epson,SCARA,1,175,0.005,4,8,Table,Very High,12000-18000,ISO Class 3,0.29,IP20,No,Yes,Micro-assembly; watch components
+Epson G3-251S,Epson,SCARA,3,250,0.005,4,12,Table,Very High,14000-20000,ISO Class 3,0.30,IP20,No,Yes,Ultra-precision assembly; watch components
+Epson G3-351S,Epson,SCARA,3,350,0.008,4,14,Table,Very High,15000-22000,ISO Class 3,0.33,IP20,No,Yes,Small parts assembly; pick-and-place
+Epson G6-451S,Epson,SCARA,6,450,0.01,4,20,Table/Ceiling,Very High,18000-26000,ISO Class 3,0.32,IP20,No,Yes,Precision assembly; electronics
+Epson G6-551S,Epson,SCARA,6,550,0.01,4,24,Table/Ceiling,Very High,20000-28000,ISO Class 3,0.34,IP20,No,Yes,General precision assembly
+Epson G6-651S,Epson,SCARA,6,650,0.015,4,28,Table/Ceiling/Wall,Very High,22000-30000,ISO Class 3,0.38,IP20,No,Yes,General assembly; packaging
+Epson G10-651S,Epson,SCARA,10,650,0.015,4,35,Table/Ceiling,Very High,26000-34000,ISO Class 4,0.36,IP20,No,Yes,Medium payload assembly
+Epson G10-851S,Epson,SCARA,10,850,0.02,4,42,Table/Ceiling,Very High,30000-40000,ISO Class 4,0.40,IP20,No,Yes,Extended reach assembly
+Epson LS3-B401S,Epson,SCARA,3,400,0.02,4,13,Table,High,10000-16000,No,0.42,IP20,No,Yes,Budget small parts assembly
+Epson LS6-B602S,Epson,SCARA,6,600,0.02,4,17,Table,High,15000-22000,ISO Class 4,0.39,IP20,No,Yes,Budget assembly; pick-and-place
+Epson LS6-B602SW,Epson,SCARA,6,600,0.02,4,20,Table,High,18000-26000,IP65 Washdown,0.40,IP65,No,Yes,Pharmaceutical; food handling
+Epson LS10-B703S,Epson,SCARA,10,700,0.02,4,22,Table,High,20000-28000,ISO Class 4,0.41,IP20,No,Yes,Material handling; packaging
+FANUC SR-3iA/C,FANUC,SCARA,3,400,0.01,4,21,Table/Ceiling,Very High,18000-25000,Yes,0.35,IP65,No,Yes,Small parts assembly; electronics
+FANUC SR-6iA/C,FANUC,SCARA,6,650,0.01,4,30,Table/Ceiling,Very High,22000-32000,Yes,0.38,IP65,No,Yes,General assembly; material handling
+FANUC SR-12iA/C,FANUC,SCARA,12,900,0.015,4,47,Table/Ceiling,Very High,30000-40000,Yes,0.40,IP65,No,Yes,Heavy parts assembly; packaging
