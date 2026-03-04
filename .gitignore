@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+app_version_histories/.env
+
+.env
